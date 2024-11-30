@@ -1,4 +1,6 @@
 [env]
 # Set ENV_VAR_NAME=value for any process run by Cargo
 MAX_NUM_OF_ELEMS_PER_FRIEND = "10"
+FALSE_POSITIVE_RATE = "0.001"
+FILTER_ITEMS = "100000"
 
